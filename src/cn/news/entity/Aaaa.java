@@ -7,4 +7,13 @@ package cn.news.entity;
  */
 public class Aaaa {
     private Long id;
+
+    public Long getId() {
+        return id;
+    }
+
+    public Aaaa setId(Long id) {
+        this.id = id;
+        return this;
+    }
 }

@@ -6,4 +6,5 @@ package cn.news.entity;
  * @Description:
  */
 public class Aaaa {
+    private Long id;
 }

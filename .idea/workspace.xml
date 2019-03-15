@@ -9,7 +9,10 @@
     <bookmark url="file://$PROJECT_DIR$" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3cc3fc9-4d97-4471-ba51-97f2dddcc718" name="Default Changelist" comment="" />
+    <list default="true" id="f3cc3fc9-4d97-4471-ba51-97f2dddcc718" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/news/entity/Aaaa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/news/entity/Aaaa.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,19 +25,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/news/entity/CurrentAnswerProgressChoiceQuestion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="62" column="6" lean-forward="true" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
+            <state relative-caret-position="242">
+              <caret line="63" column="14" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#286#287#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
-                <element signature="e#615#616#0" expanded="true" />
-                <element signature="e#660#661#0" expanded="true" />
+                <element signature="e#2349#2350#0" expanded="true" />
                 <element signature="e#2377#2378#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/news/entity/Aaaa.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="20" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="8" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -42,7 +51,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/news/ui/Test2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
+            <state relative-caret-position="1050">
               <caret line="48" selection-start-line="48" selection-end-line="48" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -54,7 +63,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/news/servlet/EnglishServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
+            <state relative-caret-position="1700">
               <caret line="147" column="58" selection-start-line="147" selection-start-column="58" selection-end-line="147" selection-end-column="58" />
               <folding>
                 <element signature="method#doPost#0;class#EnglishServlet#0" />
@@ -62,9 +71,6 @@
                 <element signature="method#fileIO#0;class#EnglishServlet#0" />
                 <element signature="method#englishSwitch#0;class#EnglishServlet#0" />
                 <element signature="method#addEnglish#0;class#EnglishServlet#0" />
-                <element signature="method#fileIO#1;class#EnglishServlet#0" />
-                <element signature="e#4711#5456#1" />
-                <element signature="e#5519#5578#1" />
               </folding>
             </state>
           </provider>
@@ -73,15 +79,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/EnglishExercise2.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-24">
+            <state relative-caret-position="925">
               <caret line="37" column="49" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
-              <folding>
-                <element signature="e#139#294#0#JSP" />
-                <element signature="e#1348#1354#0#HTML" expanded="true" />
-                <element signature="e#1422#1428#0#HTML" expanded="true" />
-                <element signature="e#1496#1502#0#HTML" expanded="true" />
-                <element signature="e#1570#1576#0#HTML" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -89,7 +88,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/news/entity/CurrentAnswerProgress.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
+            <state relative-caret-position="1950">
               <caret line="86" column="35" selection-start-line="86" selection-start-column="35" selection-end-line="86" selection-end-column="35" />
               <folding>
                 <element signature="e#1727#1728#0" expanded="true" />
@@ -102,7 +101,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/news/dao/impl/EnglishDaoImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
+            <state relative-caret-position="350">
               <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
               <folding>
                 <element signature="method#eList#0;class#EnglishDaoImpl#0" />
@@ -118,7 +117,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/news/service/impl/EnglishServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
+            <state relative-caret-position="575">
               <caret line="60" column="30" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="30" />
               <folding>
                 <element signature="method#getJudge#0;class#EnglishServiceImpl#0" />
@@ -138,6 +137,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -165,6 +167,7 @@
         <option value="$PROJECT_DIR$/src/cn/news/entity/CurrentAnswerProgress.java" />
         <option value="$PROJECT_DIR$/src/cn/news/ui/Test2.java" />
         <option value="$PROJECT_DIR$/src/cn/news/entity/CurrentAnswerProgressChoiceQuestion.java" />
+        <option value="$PROJECT_DIR$/src/cn/news/entity/Aaaa.java" />
       </list>
     </option>
   </component>
@@ -186,98 +189,43 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="English" type="b2602c69:ProjectViewProjectNode" />
-              <item name="English" type="462c0819:PsiDirectoryNode" />
+              <item name="ennglish" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ennglish" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="English" type="b2602c69:ProjectViewProjectNode" />
-              <item name="English" type="462c0819:PsiDirectoryNode" />
+              <item name="ennglish" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ennglish" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="English" type="b2602c69:ProjectViewProjectNode" />
-              <item name="English" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="news" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="English" type="b2602c69:ProjectViewProjectNode" />
-              <item name="English" type="462c0819:PsiDirectoryNode" />
+              <item name="ennglish" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ennglish" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="news" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="English" type="b2602c69:ProjectViewProjectNode" />
-              <item name="English" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="news" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="English" type="b2602c69:ProjectViewProjectNode" />
-              <item name="English" type="462c0819:PsiDirectoryNode" />
+              <item name="ennglish" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ennglish" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="news" type="462c0819:PsiDirectoryNode" />
               <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="English" type="b2602c69:ProjectViewProjectNode" />
-              <item name="English" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="news" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="English" type="b2602c69:ProjectViewProjectNode" />
-              <item name="English" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="news" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="English" type="b2602c69:ProjectViewProjectNode" />
-              <item name="English" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="news" type="462c0819:PsiDirectoryNode" />
-              <item name="servlet" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="English" type="b2602c69:ProjectViewProjectNode" />
-              <item name="English" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="news" type="462c0819:PsiDirectoryNode" />
-              <item name="ui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="English" type="b2602c69:ProjectViewProjectNode" />
-              <item name="English" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="English" type="b2602c69:ProjectViewProjectNode" />
-              <item name="English" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552645820265" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552648154640" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -556,26 +504,28 @@
       <workItem from="1552473742752" duration="1567000" />
       <workItem from="1552525298210" duration="14399000" />
       <workItem from="1552565889356" duration="19137000" />
+      <workItem from="1552646643758" duration="716000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="160335000" />
+    <option name="totallyTimeSpent" value="161051000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.86827457" visible="true" weight="0.22087745" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.86579376" visible="true" weight="0.22390318" />
       <window_info id="Designer" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Web" order="6" sideWeight="0.13172542" side_tool="true" visible="true" weight="0.22087745" />
+      <window_info id="Web" order="6" sideWeight="0.13420622" side_tool="true" visible="true" weight="0.22390318" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Structure" order="2" weight="0.0" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.119281046" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.119281046" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.2781457" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -711,35 +661,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/EnglishExercise2.jsp">
+    <entry file="file://$PROJECT_DIR$/src/cn/news/entity/CurrentAnswerProgressChoiceQuestion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-24">
-          <caret line="37" column="49" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
+        <state relative-caret-position="242">
+          <caret line="63" column="14" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
           <folding>
-            <element signature="e#139#294#0#JSP" />
-            <element signature="e#1348#1354#0#HTML" expanded="true" />
-            <element signature="e#1422#1428#0#HTML" expanded="true" />
-            <element signature="e#1496#1502#0#HTML" expanded="true" />
-            <element signature="e#1570#1576#0#HTML" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#2349#2350#0" expanded="true" />
+            <element signature="e#2377#2378#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/news/service/impl/EnglishServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/news/ui/Test2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="60" column="30" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="30" />
+        <state relative-caret-position="1050">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
           <folding>
-            <element signature="method#getJudge#0;class#EnglishServiceImpl#0" />
-            <element signature="method#getEnglishAdd#0;class#EnglishServiceImpl#0" />
-            <element signature="method#englishErrorSelectionQuery#0;class#EnglishServiceImpl#0" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/news/servlet/EnglishServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
+        <state relative-caret-position="1700">
           <caret line="147" column="58" selection-start-line="147" selection-start-column="58" selection-end-line="147" selection-end-column="58" />
           <folding>
             <element signature="method#doPost#0;class#EnglishServlet#0" />
@@ -747,16 +693,31 @@
             <element signature="method#fileIO#0;class#EnglishServlet#0" />
             <element signature="method#englishSwitch#0;class#EnglishServlet#0" />
             <element signature="method#addEnglish#0;class#EnglishServlet#0" />
-            <element signature="method#fileIO#1;class#EnglishServlet#0" />
-            <element signature="e#4711#5456#1" />
-            <element signature="e#5519#5578#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/EnglishExercise2.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="37" column="49" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/news/entity/CurrentAnswerProgress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="86" column="35" selection-start-line="86" selection-start-column="35" selection-end-line="86" selection-end-column="35" />
+          <folding>
+            <element signature="e#1727#1728#0" expanded="true" />
+            <element signature="method#randomReadNowAProblemIndex#0;class#CurrentAnswerProgress#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/news/dao/impl/EnglishDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
+        <state relative-caret-position="350">
           <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
           <folding>
             <element signature="method#eList#0;class#EnglishDaoImpl#0" />
@@ -768,39 +729,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/news/entity/CurrentAnswerProgress.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/news/service/impl/EnglishServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="86" column="35" selection-start-line="86" selection-start-column="35" selection-end-line="86" selection-end-column="35" />
+        <state relative-caret-position="575">
+          <caret line="60" column="30" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="30" />
           <folding>
-            <element signature="e#1727#1728#0" expanded="true" />
-            <element signature="method#randomReadNowAProblemIndex#0;class#CurrentAnswerProgress#0" />
+            <element signature="method#getJudge#0;class#EnglishServiceImpl#0" />
+            <element signature="method#getEnglishAdd#0;class#EnglishServiceImpl#0" />
+            <element signature="method#englishErrorSelectionQuery#0;class#EnglishServiceImpl#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/news/ui/Test2.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/news/entity/Aaaa.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/news/entity/CurrentAnswerProgressChoiceQuestion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="62" column="6" lean-forward="true" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#615#616#0" expanded="true" />
-            <element signature="e#660#661#0" expanded="true" />
-            <element signature="e#2377#2378#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="200">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="8" selection-end-column="20" />
         </state>
       </provider>
     </entry>
